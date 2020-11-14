@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://swingbye27.starfree.jp/</loc>
-        <lastmod>2019-08-26</lastmod>
+        <loc>https://swing-bye.github.io</loc>
+        <lastmod>2020-11-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://swingbye27.starfree.jp/About.html</loc>
-        <lastmod>2019-08-26</lastmod>
+        <loc>https://swing-bye.github.io/About.html</loc>
+        <lastmod>2020-11-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>http://swingbye27.starfree.jp/Game.html</loc>
-        <lastmod>2019-08-26</lastmod>
+        <loc>https://swing-bye.github.io/Game.html</loc>
+        <lastmod>2020-11-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://swingbye27.starfree.jp/Music.html</loc>
-        <lastmod>2019-08-26</lastmod>
+        <loc>https://swing-bye.github.io/Music.html</loc>
+        <lastmod>2020-11-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>http://swingbye27.starfree.jp/Movie.html</loc>
-        <lastmod>2019-08-26</lastmod>
+        <loc>https://swing-bye.github.io/Movie.html</loc>
+        <lastmod>2020-11-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.3</priority>
     </url>
