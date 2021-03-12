@@ -244,12 +244,11 @@ footer p {
   text-align: center;
 }
 .gamelist li {
-  box-sizing: border-box;
   width: 25%;
   padding: 10 10px;
 }
 
-.gamelist li img {
+.gamelist li a img {
   max-width: 100%;
   height: auto;
   border: solid 1px #ccc;
