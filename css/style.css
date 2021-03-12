@@ -306,6 +306,9 @@ footer p {
   footer ul {
     display: none;
   }
+  .gamelist {
+    align-items: center;
+  }
   .gamelist li {
     width: 100%;
     padding: 20 20px;
