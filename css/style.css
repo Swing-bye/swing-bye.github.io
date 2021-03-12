@@ -23,6 +23,10 @@ small {
   font-size: 0.5rem;
 }
 
+ul {
+  list-style: none;
+}
+
 .clearfix:after {
   content: "";
   display: block;
@@ -250,13 +254,10 @@ footer p {
 }
 
 .gamelist li a img {
+  list-style: none;
   max-width: 100%;
   height: auto;
   border: solid 1px #ccc;
-}
-
-.gamelist a {
-  text-decoration: none;
 }
 
 @media screen and (max-width: 1024px) {
