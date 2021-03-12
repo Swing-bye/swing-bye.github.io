@@ -242,6 +242,7 @@ footer p {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
+  list-style: none;
 }
 .gamelist li {
   width: 25%;
