@@ -260,7 +260,7 @@ footer p {
   border: solid 1px #ccc;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 720px) {
   img {
     max-width: 100%;
     height: auto;
