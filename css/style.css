@@ -242,12 +242,11 @@ footer p {
   display: flex;
   flex-wrap: wrap;
   text-align: center;
-  list-style: none;
 }
 .gamelist li {
-  width: calc(100% / 4);
-  padding: 10 10px;
   box-sizing: border-box;
+  width: 25%;
+  padding: 10 10px;
 }
 
 .gamelist li img {
