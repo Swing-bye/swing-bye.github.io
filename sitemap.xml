@@ -7,25 +7,25 @@
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://swing-bye.github.io/About.html</loc>
+        <loc>https://swing-bye.github.io/about.html</loc>
         <lastmod>2020-11-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>https://swing-bye.github.io/Game.html</loc>
+        <loc>https://swing-bye.github.io/game.html</loc>
         <lastmod>2020-11-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://swing-bye.github.io/Music.html</loc>
+        <loc>https://swing-bye.github.io/music.html</loc>
         <lastmod>2020-11-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.3</priority>
     </url>
     <url>
-        <loc>https://swing-bye.github.io/Movie.html</loc>
+        <loc>https://swing-bye.github.io/movie.html</loc>
         <lastmod>2020-11-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.3</priority>
